@@ -1,0 +1,50 @@
+[
+  {
+    "asset": "banner-tentang.jpg",
+    "description": "Ruang kerja profesional",
+    "source": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-program.jpg",
+    "description": "Pembelajaran dan pelatihan",
+    "source": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-ekosistem.jpg",
+    "description": "Kolaborasi tim",
+    "source": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-artikel.jpg",
+    "description": "Penulisan dan editorial",
+    "source": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-kontak.jpg",
+    "description": "Ruang komunikasi dan pertemuan",
+    "source": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-arsitektur.jpg",
+    "description": "Teknologi dan sistem digital",
+    "source": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-admin.jpg",
+    "description": "Analitik dan pengelolaan konten",
+    "source": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  },
+  {
+    "asset": "banner-produk.jpg",
+    "description": "Biji kopi dan produk agrikultur",
+    "source": "https://images.unsplash.com/photo-1549403610-177341eb0f67?auto=format&fit=crop&w=1440&q=85",
+    "usage": "Foto ilustrasi tematik, bukan dokumentasi KEA"
+  }
+]
